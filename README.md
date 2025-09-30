@@ -36,12 +36,20 @@
 
 | #  | Название                                 | Ссылка на директорию                     |
 |----|---------------------------------------|-----------------------------------|
-| 1  | RL ENVS                       | [seminar_1_cross_entropy](seminar_1_cross_entropy) |
+| 1  | RL ENVS                       | [seminar_1]() |
 
 
 ---
 
 ## 📚 Дополнительные материалы
+
+- [Саттон и Барто — Reinforcement Learning. An Introduсtion](https://disk.yandex.ru/i/S92-w_CkJVfZmw)  
+- [HuggingFace — Введение в курс](https://huggingface.co/learn/deep-rl-course/unit0/introduction)  
+- [Дэвид Сильвер — Лекция (видео)](https://www.youtube.com/watch?v=2pWv7GOvuf0)  
+- [Связь с нейрофизиологией и психологией](http://www.scholarpedia.org/article/Reinforcement_learning)  
+- Эмма Бранскилл — Введение: [презентация](https://web.stanford.edu/class/cs234/slides/lecture1.pdf), [видео](https://youtu.be/FgzM3zpZ55o)  
+- [Паскаль Попарт — Введение](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture1a.pdf)  
+
 
 ---
 > *Счастливого обучения с подкреплением!*
