@@ -38,6 +38,7 @@
 |----|---------------------------------------|-----------------------------------|
 | 1  | Среды и фреймворки для RL | [ipynb](seminars/01_Main_Components_Frameworks.ipynb) |
 | 2  | Динамическое программирование и вычисление функции полезности | [ipynb](seminars/02_Dynamic_Prog_MC_TD.ipynb) |
+| 3  | SARSA и Q-обучение | [ipynb](seminars/03_SARSA_Q.ipynb) |
 
 
 ---
